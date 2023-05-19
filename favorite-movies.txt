@@ -5,3 +5,5 @@ Superman
 Punisher
 Flash
 Thor
+New Hero!
+
